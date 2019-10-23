@@ -1,3 +1,16 @@
+#Bryan Morris
+#This is my pages
+
+
+
+
+
+
+
+
+
+
+
 pg1 = ("""
 You are relaxing one afternoon after school
 when you get a phone call from your uncle
